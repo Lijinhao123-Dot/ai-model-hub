@@ -1,0 +1,8 @@
+// 全局样式
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+
+a { text-decoration: none; color: var(--el-color-primary); }
+
+.el-card { border-radius: 12px; }
